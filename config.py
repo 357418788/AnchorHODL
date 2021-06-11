@@ -1,6 +1,6 @@
 import os
 
-mnemonic = os.environ.get('MNEMONIC', 'paste your seed here')
+mnemonic = os.environ.get('MNEMONIC', 'term space guitar rack tongue tiger grunt cream argue neglect gravity shoulder dad surprise frame novel deputy trash rival sketch until riot couple near')
 target_percent = 80
 trigger_at_percent = 85
 
